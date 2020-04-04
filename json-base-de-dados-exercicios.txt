@@ -1,4 +1,5 @@
-[ 
+{
+"exercises": [ 
  {
 	"nome" : "Agachamentos"
 	"link" : "https://imgur.com/v9QD56E"
@@ -160,4 +161,5 @@
 	"descricao" : "1. Iniciar com os braços ao longo do corpo e pernas juntas, saltar e afastar as pernas e levantar os braços \n2. Repetir este exercício 12 vezes 3 séries "
  }
 ]
+}
  
