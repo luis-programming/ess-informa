@@ -7,15 +7,17 @@
     "@testing-library/react": "^9.5.0",
     "@testing-library/user-event": "^7.2.1",
     "axios": "^0.19.2",
+    "express": "^4.17.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1"
   },
   "scripts": {
-    "start": "node app",
+    "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+	"postinstall": "react-scripts build"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -33,7 +35,7 @@
     ]
   },
   "engines": {
-	  "node": "12.13.1",
-	  "npm": "6.12.1"
-	}
+    "node": "12.13.1",
+    "npm": "6.12.1"
+  }
 }
