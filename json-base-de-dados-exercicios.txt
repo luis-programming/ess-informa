@@ -1,4 +1,4 @@
-m[ 
+[ 
  {
 	"nome" : "Agachamentos"
 	"link" : "https://imgur.com/v9QD56E"
